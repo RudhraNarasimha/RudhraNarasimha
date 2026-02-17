@@ -1,87 +1,125 @@
-<h1 align="center">Hi 👋, I'm Rudhra</h1>
-<h3 align="center">Data Science Engineer | AI/ML Enthusiast | Full Stack Developer</h3>
+<!-- Animated Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Rudhra;AI+%2F+ML+Engineer;Full+Stack+Developer;Building+Production+Ready+Systems" />
+</h1>
 
+<h3 align="center">Data Science Engineer | AI/ML | Full Stack | System Design</h3>
+
+---
+
+<!-- Profile Views + Badges -->
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🧠 About Me
 
-- 🎓 Data Science Student & Wipro Trainee  
-- 🤖 Focused on AI, Machine Learning & Production Systems  
-- 🌐 Building Full Stack Applications with Scalable Architecture  
-- 📈 Passionate about clean code, performance & system design  
-- 🎯 Goal: Become a Production-Ready AI & Full Stack Engineer  
-
----
-
-## 🧠 Core Expertise
-
-### 💻 Programming
-`Python` | `Java` | `JavaScript` | `HTML` | `CSS`
-
-### 🤖 AI / ML
-`NumPy` | `Pandas` | `Scikit-learn` | `Matplotlib` | `Model Deployment`
-
-### 🌐 Full Stack
-`Bootstrap` | `REST APIs` | `MySQL` | `React (Learning)`
-
-### ⚙️ Tools
-`Git` | `GitHub` | `VS Code` | `Jupyter` | `Linux`
+🚀 Data Science Student & Wipro Trainee  
+🤖 Focused on Artificial Intelligence & Machine Learning  
+🌐 Building Full Stack Web Applications  
+⚙️ Learning System Design & Production Architecture  
+🎯 Goal: Become an Industry-Level AI & Software Engineer  
 
 ---
 
-## 📊 GitHub Analytics
+# 🛠️ Tech Stack (Modern & Industry Ready)
+
+## 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+</p>
+
+## 🤖 AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Scikit-learn  
+- Model Training & Evaluation  
+- Data Preprocessing  
+- Feature Engineering  
+
+## 🌐 Full Stack Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,nodejs,mysql" />
+</p>
+
+- REST APIs  
+- CRUD Applications  
+- Authentication Basics  
+- MVC Architecture  
+
+## ⚙️ Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+</p>
+
+- Version Control (Git)  
+- CI/CD Basics  
+- Deployment Fundamentals  
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Featured Projects
+# 🏆 GitHub Achievements
 
-### 🤖 AI / ML Projects
-- Customer Churn Prediction System  
-- Sales Forecasting Model  
-- End-to-End ML Deployment Project  
-
-### 🌐 Full Stack Projects
-- Portfolio Website  
-- Java + MySQL CRUD Application  
-- REST API Based Web Application  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## 🏆 Achievements & Focus Areas
+# 🐍 Contribution Snake Animation
 
-- 📌 End-to-End Project Development  
-- 📌 Model Optimization & Evaluation  
-- 📌 Clean Architecture Implementation  
-- 📌 CI/CD Fundamentals  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 🔥 Featured Work
 
-<p align="left">
-  <a href="https://linkedin.com/in/yourlink" target="_blank">
+## 🤖 AI / ML Projects
+✔ Customer Churn Prediction  
+✔ Sales Forecasting System  
+✔ End-to-End ML Deployment  
+
+## 🌐 Full Stack Projects
+✔ Portfolio Website  
+✔ Java + MySQL CRUD App  
+✔ REST API Based Web App  
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourlinkedin">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">⚡ Building Intelligent Systems & Scalable Applications ⚡</h3>
+<h3 align="center">⚡ Engineering Intelligent Systems for Real World Impact ⚡</h3>
