@@ -1,72 +1,112 @@
-<!-- Animated Typing Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Rudhra;AI+%2F+ML+Engineer;Full+Stack+Developer;Building+Production+Ready+Systems" />
-</h1>
-
-<h3 align="center">Data Science Engineer | AI/ML | Full Stack | System Design</h3>
-
----
-
-<!-- Profile Views + Badges -->
+<!-- Custom Professional Banner -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=flat" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=220&section=header&text=Rudhra&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20System%20Thinker&descAlignY=55&descAlign=50"/>
 </p>
 
 ---
 
-# 🧠 About Me
+# 👨‍💻 Rudhra  
+### AI/ML Engineer | Full Stack Developer | Data Science Professional  
 
-🚀 Data Science Student & Wipro Trainee  
-🤖 Focused on Artificial Intelligence & Machine Learning  
-🌐 Building Full Stack Web Applications  
-⚙️ Learning System Design & Production Architecture  
-🎯 Goal: Become an Industry-Level AI & Software Engineer  
+📍 India  
+📧 youremail@gmail.com  
+🔗 https://linkedin.com/in/yourlinkedin  
 
 ---
 
-# 🛠️ Tech Stack (Modern & Industry Ready)
+## 🧠 Professional Summary
 
-## 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
-</p>
+Results-driven Data Science Engineer and Full Stack Developer with strong foundations in machine learning, scalable system design, and end-to-end product development. Experienced in building production-ready AI systems and full stack applications with clean architecture principles. Passionate about solving real-world problems using data-driven approaches and efficient backend systems.
 
-## 🤖 AI / Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+---
 
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Scikit-learn  
-- Model Training & Evaluation  
-- Data Preprocessing  
+## 🛠 Technical Skills
+
+### Programming
+Python • Java • JavaScript • SQL • HTML • CSS  
+
+### AI / Machine Learning
+- Data Cleaning & Preprocessing  
 - Feature Engineering  
+- Model Training & Evaluation  
+- Supervised Learning Algorithms  
+- Performance Optimization  
+- Model Deployment Concepts  
 
-## 🌐 Full Stack Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,nodejs,mysql" />
-</p>
+Libraries: NumPy • Pandas • Scikit-learn • Matplotlib  
 
-- REST APIs  
-- CRUD Applications  
-- Authentication Basics  
-- MVC Architecture  
+### Full Stack Development
+Frontend: React • Bootstrap  
+Backend: Node.js • REST APIs  
+Database: MySQL  
+Architecture: MVC Pattern  
 
-## ⚙️ Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-</p>
-
-- Version Control (Git)  
-- CI/CD Basics  
-- Deployment Fundamentals  
+### DevOps & Tools
+Git • GitHub • Linux • Docker (Basics) • CI/CD Fundamentals • VS Code  
 
 ---
 
-# 📊 GitHub Analytics
+## 🚀 Production-Level Projects
+
+### 1️⃣ Customer Churn Prediction System (End-to-End ML)
+
+**Problem:**  
+Businesses lose customers without understanding churn reasons.
+
+**Solution Built:**  
+- Cleaned and preprocessed large customer datasets  
+- Performed feature engineering  
+- Trained multiple ML models  
+- Compared accuracy & optimized performance  
+- Evaluated using confusion matrix & ROC-AUC  
+
+**Impact:**  
+Improved churn prediction accuracy and enabled data-driven retention strategy.
+
+---
+
+### 2️⃣ Sales Forecasting System
+
+**Problem:**  
+Unpredictable revenue patterns affecting planning.
+
+**Solution Built:**  
+- Time-based data analysis  
+- Trend visualization  
+- Built regression-based forecasting model  
+- Performance validation using MAE/MSE  
+
+**Impact:**  
+Enabled better inventory and financial forecasting decisions.
+
+---
+
+### 3️⃣ Full Stack CRUD Management Application
+
+**Tech Stack:** Java / MySQL / REST  
+
+**Features:**  
+- Authentication system  
+- CRUD operations  
+- Structured backend logic  
+- Database integration  
+- Clean layered architecture  
+
+**Impact:**  
+Demonstrated scalable backend system design principles.
+
+---
+
+### 4️⃣ Portfolio Web Application
+
+- Responsive UI  
+- REST API integration  
+- Deployment-ready structure  
+- Clean component architecture  
+
+---
+
+## 📊 GitHub Performance Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -79,47 +119,30 @@
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 Engineering Strengths
+
+✔ Strong problem-solving mindset  
+✔ Clean, maintainable code practices  
+✔ Data-driven decision making  
+✔ Scalable system thinking  
+✔ Continuous learning approach  
+✔ Production-focused development  
+
+---
+
+## 🎯 Current Focus
+
+- Advanced Machine Learning  
+- Backend Architecture  
+- System Design Fundamentals  
+- Cloud Deployment (Upcoming)  
+
+---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <i>“Engineering scalable intelligence for real-world systems.”</i>
 </p>
-
----
-
-# 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203A43,100:0F2027&height=120&section=footer"/>
 </p>
-
----
-
-# 🔥 Featured Work
-
-## 🤖 AI / ML Projects
-✔ Customer Churn Prediction  
-✔ Sales Forecasting System  
-✔ End-to-End ML Deployment  
-
-## 🌐 Full Stack Projects
-✔ Portfolio Website  
-✔ Java + MySQL CRUD App  
-✔ REST API Based Web App  
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
----
-
-<h3 align="center">⚡ Engineering Intelligent Systems for Real World Impact ⚡</h3>
