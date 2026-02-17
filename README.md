@@ -1,112 +1,97 @@
-<!-- Custom Professional Banner -->
+<!-- Professional Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=220&section=header&text=Rudhra&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20System%20Thinker&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=220&section=header&text=Rudhra%20Narasimha&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20System%20Architect&descAlignY=55&descAlign=50"/>
 </p>
 
 ---
 
-# 👨‍💻 Rudhra  
-### AI/ML Engineer | Full Stack Developer | Data Science Professional  
+# 👨‍💻 Rudhra Narasimha  
+AI/ML Engineer | Full Stack Developer | Data Science Professional  
 
 📍 India  
-📧 youremail@gmail.com  
-🔗 https://linkedin.com/in/yourlinkedin  
+📧 bandikanirn@gmail.com  
+🔗 https://www.linkedin.com/in/rudhranarasimha  
 
 ---
 
 ## 🧠 Professional Summary
 
-Results-driven Data Science Engineer and Full Stack Developer with strong foundations in machine learning, scalable system design, and end-to-end product development. Experienced in building production-ready AI systems and full stack applications with clean architecture principles. Passionate about solving real-world problems using data-driven approaches and efficient backend systems.
+I am a Data Science student and engineering-focused developer passionate about building production-ready AI systems and scalable full stack applications.  
+
+I focus on writing clean, maintainable code, designing structured backend systems, and creating data-driven solutions that solve real-world problems.  
+
+My goal is to become a high-impact AI & Software Engineer capable of designing intelligent and scalable systems for large-scale environments.
 
 ---
 
-## 🛠 Technical Skills
+# 🚀 Key Engineering Work
 
-### Programming
+## Customer Churn Prediction System
+
+Designed and implemented an end-to-end machine learning pipeline to predict customer attrition.
+
+**Technical Contributions:**
+- Data preprocessing and feature engineering  
+- Supervised model training and comparison  
+- Performance validation using ROC-AUC and confusion matrix  
+- Model optimization for improved predictive accuracy  
+
+**Impact:** Enabled structured customer retention analysis through predictive modeling.
+
+---
+
+## Sales Forecasting Model
+
+Developed a regression-based forecasting system to improve revenue predictability.
+
+**Technical Contributions:**
+- Time-series trend analysis  
+- Data visualization for business interpretability  
+- Error validation using MAE and MSE  
+
+**Impact:** Provided data-backed forecasting insights to support planning strategies.
+
+---
+
+## Full Stack CRUD Management System
+
+Engineered a scalable backend-driven application using Java and MySQL.
+
+**Technical Contributions:**
+- Secure authentication implementation  
+- REST API design  
+- Database integration and query optimization  
+- Layered architecture (Controller → Service → DAO)  
+
+**Impact:** Demonstrated structured backend engineering and scalable application design.
+
+---
+
+## Portfolio Web Application
+
+Built a responsive portfolio application showcasing structured component architecture and deployment-ready configuration.
+
+---
+
+# 🛠 Technical Competencies
+
+### Programming Languages
 Python • Java • JavaScript • SQL • HTML • CSS  
 
-### AI / Machine Learning
-- Data Cleaning & Preprocessing  
-- Feature Engineering  
-- Model Training & Evaluation  
-- Supervised Learning Algorithms  
-- Performance Optimization  
-- Model Deployment Concepts  
-
-Libraries: NumPy • Pandas • Scikit-learn • Matplotlib  
+### Machine Learning & Data Science
+NumPy • Pandas • Scikit-learn • Matplotlib  
+Feature Engineering • Model Evaluation • Optimization Techniques  
 
 ### Full Stack Development
-Frontend: React • Bootstrap  
-Backend: Node.js • REST APIs  
-Database: MySQL  
-Architecture: MVC Pattern  
+React • Bootstrap • REST APIs • MySQL  
+MVC Architecture  
 
-### DevOps & Tools
-Git • GitHub • Linux • Docker (Basics) • CI/CD Fundamentals • VS Code  
+### Tools & DevOps
+Git • GitHub • Linux • Docker (Fundamentals) • CI/CD Basics • VS Code  
 
 ---
 
-## 🚀 Production-Level Projects
-
-### 1️⃣ Customer Churn Prediction System (End-to-End ML)
-
-**Problem:**  
-Businesses lose customers without understanding churn reasons.
-
-**Solution Built:**  
-- Cleaned and preprocessed large customer datasets  
-- Performed feature engineering  
-- Trained multiple ML models  
-- Compared accuracy & optimized performance  
-- Evaluated using confusion matrix & ROC-AUC  
-
-**Impact:**  
-Improved churn prediction accuracy and enabled data-driven retention strategy.
-
----
-
-### 2️⃣ Sales Forecasting System
-
-**Problem:**  
-Unpredictable revenue patterns affecting planning.
-
-**Solution Built:**  
-- Time-based data analysis  
-- Trend visualization  
-- Built regression-based forecasting model  
-- Performance validation using MAE/MSE  
-
-**Impact:**  
-Enabled better inventory and financial forecasting decisions.
-
----
-
-### 3️⃣ Full Stack CRUD Management Application
-
-**Tech Stack:** Java / MySQL / REST  
-
-**Features:**  
-- Authentication system  
-- CRUD operations  
-- Structured backend logic  
-- Database integration  
-- Clean layered architecture  
-
-**Impact:**  
-Demonstrated scalable backend system design principles.
-
----
-
-### 4️⃣ Portfolio Web Application
-
-- Responsive UI  
-- REST API integration  
-- Deployment-ready structure  
-- Clean component architecture  
-
----
-
-## 📊 GitHub Performance Metrics
+# 📊 GitHub Engineering Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -119,28 +104,19 @@ Demonstrated scalable backend system design principles.
 
 ---
 
-## 🏆 Engineering Strengths
+# 🔄 Current Development Focus
 
-✔ Strong problem-solving mindset  
-✔ Clean, maintainable code practices  
-✔ Data-driven decision making  
-✔ Scalable system thinking  
-✔ Continuous learning approach  
-✔ Production-focused development  
-
----
-
-## 🎯 Current Focus
-
-- Advanced Machine Learning  
-- Backend Architecture  
+- Advanced Machine Learning Algorithms  
+- Backend Scalability Patterns  
 - System Design Fundamentals  
-- Cloud Deployment (Upcoming)  
+- Cloud Deployment (AWS / GCP)  
+- Docker-Based Production Setup  
+- CI/CD Pipeline Automation  
 
 ---
 
 <p align="center">
-  <i>“Engineering scalable intelligence for real-world systems.”</i>
+  <i>Engineering scalable intelligence for production systems.</i>
 </p>
 
 <p align="center">
