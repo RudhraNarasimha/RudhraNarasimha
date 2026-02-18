@@ -1,111 +1,119 @@
-<!-- Premium Animated Header -->
+<!-- Advanced Engineering Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Rudhra%20Narasimha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Scalable%20System%20Builder&descAlignY=58&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Rudhra%20Narasimha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20|%20Full%20Stack%20Architect%20|%20Scalable%20Infrastructure%20Builder&descAlignY=60&descAlign=50"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=650&lines=Designing+Intelligent+Systems;Building+Scalable+Applications;Engineering+Production+Ready+Solutions;Focused+on+Impact+Driven+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=750&lines=Architecting+Intelligent+Systems;Engineering+Production-Grade+Applications;Designing+Scalable+Backend+Infrastructure;Transforming+Data+into+Business+Intelligence" />
 </p>
 
 ---
 
 # 👨‍💻 Rudhra Narasimha  
-AI/ML Engineer | Full Stack Developer | Data Science Professional  
+**AI Systems Engineer | Full Stack Architect | Data Science Professional**
 
 📍 India  
 📧 bandikanirn@gmail.com  
-🔗 https://www.linkedin.com/in/rudhranarasimha  
+🔗 LinkedIn: https://www.linkedin.com/in/rudhranarasimha  
 
 ---
 
-# 🧠 Executive Summary
+# 🧠 Professional Profile
 
-I build intelligent, scalable systems that transform data into actionable impact.
+I engineer intelligent, scalable, and production-grade systems that convert complex data into strategic value.
 
-With a strong foundation in machine learning and full stack engineering, I design and develop production-ready applications using structured architecture, clean code principles, and performance-driven methodologies.
+With a strong foundation in machine learning, backend architecture, and system design, I focus on:
 
-My focus is not just writing code — but engineering systems that are efficient, maintainable, and built for scale.
+- Designing robust ML pipelines  
+- Building scalable backend infrastructures  
+- Developing clean, maintainable, modular codebases  
+- Deploying applications using DevOps principles  
+- Engineering systems optimized for performance and reliability  
 
-I continuously push toward mastering advanced machine learning, backend scalability, and cloud-based deployment to operate at industry-leading engineering standards.
+I operate with a systems-thinking mindset — prioritizing architecture, scalability, and long-term maintainability over short-term solutions.
 
 ---
 
 # 🚀 Engineering Portfolio
 
-## Customer Churn Prediction System
+## 🔹 Customer Churn Prediction Platform
 
-Designed and implemented a complete ML pipeline to predict customer attrition.
+**Objective:** Predict customer attrition using structured ML pipelines.
 
-**Engineering Highlights**
-- Advanced data preprocessing & feature engineering  
-- Multi-model training & performance comparison  
-- Evaluation using ROC-AUC & confusion matrix  
-- Optimization for predictive accuracy  
+### Architecture
+- Data preprocessing pipeline  
+- Advanced feature engineering  
+- Multi-model experimentation (Logistic Regression, Random Forest)  
+- Performance benchmarking with ROC-AUC & F1-score  
+- Model optimization & validation  
 
-**Impact**
-Delivered structured retention insights through predictive intelligence.
-
----
-
-## Sales Forecasting Model
-
-Developed a regression-based forecasting system for revenue prediction.
-
-**Engineering Highlights**
-- Time-series analysis  
-- Trend visualization for interpretability  
-- MAE & MSE validation  
-
-**Impact**
-Enabled data-backed financial forecasting decisions.
+### Engineering Outcome
+Delivered interpretable retention intelligence through predictive modeling.
 
 ---
 
-## Full Stack CRUD Management System
+## 🔹 Revenue Forecasting Engine
 
-Architected and developed a scalable backend-driven system.
+**Objective:** Forecast revenue trends using regression-based modeling.
 
-**Tech Stack**
-Java • MySQL • REST APIs  
+### Engineering Implementation
+- Time-series trend analysis  
+- Feature scaling & transformation  
+- Model validation using MAE & RMSE  
+- Visualization-driven interpretability  
 
-**Engineering Highlights**
-- Secure authentication workflow  
+### Business Impact
+Enabled data-backed financial decision-making.
+
+---
+
+## 🔹 Scalable Full Stack Management System
+
+**Tech Stack:** Java • MySQL • REST • MVC Architecture  
+
+### System Design
 - Layered architecture (Controller → Service → DAO)  
-- Structured API design  
-- Database integration & query handling  
+- RESTful API design  
+- Secure authentication flow  
+- Database normalization & optimized queries  
+- Exception handling & modular structure  
 
-**Impact**
-Demonstrated scalable backend architecture and clean engineering practices.
+### Engineering Strength
+Demonstrated scalable backend engineering principles aligned with production standards.
 
 ---
 
-## Portfolio Web Application
+## 🔹 Portfolio Web Application
 
-- Component-based frontend structure  
-- REST integration  
+- Component-based frontend architecture  
+- REST API integration  
+- Responsive UI with Bootstrap  
 - Deployment-ready configuration  
 
 ---
 
-# 🛠 Core Technical Expertise
+# 🛠 Technical Expertise
 
-### Programming
+## Programming & Core Languages
 Python • Java • JavaScript • SQL • HTML • CSS  
 
-### Machine Learning
+## Machine Learning & Data Engineering
 NumPy • Pandas • Scikit-learn • Matplotlib  
-Feature Engineering • Model Optimization • Performance Evaluation  
+Feature Engineering • Model Evaluation • Hyperparameter Tuning  
+Statistical Analysis • Data Cleaning Pipelines  
 
-### Full Stack
-React • Bootstrap • REST APIs • MySQL  
-MVC Architecture  
+## Backend & Full Stack Engineering
+REST APIs • MVC Architecture • React  
+MySQL • Database Design • Authentication Systems  
 
-### DevOps & Systems
-Git • GitHub • Linux • Docker • CI/CD Fundamentals  
+## DevOps & Infrastructure
+Git • GitHub • Linux  
+Docker Fundamentals • CI/CD Concepts  
+Version Control Strategy • Deployment Pipelines  
 
 ---
 
-# 📊 Engineering Activity
+# 📊 GitHub Engineering Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
@@ -118,20 +126,29 @@ Git • GitHub • Linux • Docker • CI/CD Fundamentals
 
 ---
 
-# 🏆 Engineering Mindset
+# 🏗 Engineering Philosophy
 
-✔ Systems Thinking  
-✔ Data-Driven Decisions  
-✔ Scalable Architecture Focus  
-✔ Clean & Maintainable Code  
-✔ Continuous Skill Advancement  
+✔ Architect Before You Code  
+✔ Optimize for Scale  
+✔ Build Maintainable Systems  
+✔ Automate Repetitive Processes  
+✔ Continuous Technical Evolution  
+
+---
+
+# 📈 Current Focus
+
+- Advanced Machine Learning Systems  
+- Distributed Backend Architecture  
+- Cloud Deployment & Containerization  
+- System Design & Production Optimization  
 
 ---
 
 <p align="center">
-  <i>Engineering intelligence. Designing scale. Delivering impact.</i>
+  <i>Engineering intelligence. Architecting scale. Delivering measurable impact.</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
 </p>
