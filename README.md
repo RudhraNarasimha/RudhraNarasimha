@@ -1,46 +1,47 @@
-<!-- ===== APPLE LUXURY HEADER ===== -->
+<!-- ================= PREMIUM BLACK TITANIUM HEADER ================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1C1C1C&height=260&section=header&text=Rudhra%20Narasimha&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1C1C1C&height=300&section=header&text=Rudhra%20Narasimha&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Backend%20Systems%20Architect&descAlignY=62&descAlign=50"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=FFFFFF&center=true&vCenter=true&width=850&lines=Software+Engineer;Machine+Learning+Engineer;Backend+Systems+Builder;Precision+Driven+Architecture" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3200&color=FFFFFF&center=true&vCenter=true&width=900&lines=Architecture-Driven+Engineering;Machine+Learning+Systems;Scalable+Backend+Design;Precision+Built+Software" />
 </p>
 
 ---
 
 <br/>
 
-# Software. Engineered With Precision.
+# Engineering Systems With Precision.
 
-I build clean, structured, scalable systems powered by logic and data.  
-Every project reflects architecture-first thinking and disciplined engineering.
+I design and build structured software systems powered by clean architecture, intelligent modeling, and scalable backend logic.
+
+This portfolio represents engineered systems — not coursework.
 
 <br/><br/>
 
 ---
 
-# Selected Systems
+# Core Systems
 
 <br/>
 
-## ✈️ Airplane Reservation System
+## ✈ Airplane Reservation System
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,mysql" />
 </p>
 
-A modular backend system simulating real-world airline booking infrastructure.
+A structured backend infrastructure simulating real airline booking operations.
 
-**Architecture Highlights**
-- Object-oriented domain modeling  
-- Flight inventory engine  
-- Booking & cancellation workflow  
-- Secure JDBC database integration  
-- Structured exception handling  
+**System Architecture**
+- Layered OOP design  
+- Flight inventory management  
+- Reservation & cancellation engine  
+- JDBC database abstraction  
+- Transaction validation logic  
 
-Built to reflect real airline transaction flow logic.
+Built with separation of concerns and scalable object modeling.
 
 <br/><br/>
 
@@ -49,18 +50,19 @@ Built to reflect real airline transaction flow logic.
 ## 🏦 Banking Management System
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
-A financial transaction system focused on data integrity and state consistency.
+A financial system simulation engineered around transaction safety and data integrity.
 
-**Core Engineering**
-- Secure authentication layer  
-- Atomic deposit & withdrawal operations  
-- Transaction history tracking  
+**Engineering Structure**
+- Authentication module  
+- Account lifecycle controller  
+- Deposit & withdrawal atomic logic  
+- Persistent transaction records  
 - Encapsulated financial rules  
 
-Designed with clean separation between business logic and data layer.
+Focused on reliability and business logic isolation.
 
 <br/><br/>
 
@@ -69,81 +71,81 @@ Designed with clean separation between business logic and data layer.
 ## 🌾 Crop Recommendation Engine
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-A supervised learning model that predicts optimal crops based on environmental inputs.
+A supervised classification system transforming environmental inputs into optimized agricultural decisions.
 
-**Pipeline**
+**ML Pipeline**
 - Data preprocessing  
-- Feature normalization  
-- Classification modeling  
-- Accuracy evaluation  
+- Feature scaling  
+- Model training & evaluation  
+- Accuracy & confusion matrix validation  
 
-Transforms raw agricultural data into intelligent recommendations.
+Designed for predictive intelligence.
 
 <br/><br/>
 
 ---
 
-## 🏠 House Price Prediction
+## 🏠 House Price Prediction Model
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-A regression-based predictive model for structured real estate pricing analysis.
+A regression-based pricing engine delivering structured real estate predictions.
 
-**Engineering Flow**
-- Feature scaling  
+**Pipeline Engineering**
+- Data normalization  
 - Model training  
-- MAE / MSE validation  
-- Visual performance analysis  
+- MAE / MSE evaluation  
+- Visual interpretability  
 
-Engineered for interpretability and analytical clarity.
+Engineered for analytical clarity.
 
 <br/><br/>
 
 ---
 
-# Technology Stack
+# Technology
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,mysql,git,linux,docker" />
 </p>
 
-<br/>
+Backend Engineering • Machine Learning • Data Modeling • Clean Architecture • System Design
+
+<br/><br/>
 
 ---
 
-# Engineering Metrics
+# Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF"/>
 </p>
 
-<br/>
+<br/><br/>
 
 ---
 
-# Philosophy
+# Design Philosophy
 
-Clarity over complexity.  
-Structure before implementation.  
-Performance before polish.  
+Structure before scale.  
+Clarity before complexity.  
+Performance before aesthetics.  
 
 <br/><br/>
 
 <p align="center">
-  <i>Built with intention.</i>
+  <i>Engineered. Not assembled.</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,50:111111,100:000000&height=150&section=footer"/>
 </p>
-
