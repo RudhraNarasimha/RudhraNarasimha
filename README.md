@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Live Portfolio](https://img.shields.io/badge/%E2%96%B6%20%20LIVE%20ANIMATED%20PORTFOLIO-020609?style=for-the-badge&labelColor=020609&logo=googlechrome&logoColor=00ff88)](https://RudhraNarasimha.github.io)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/%E2%96%B6%20%20PORTFOLIO-020609?style=for-the-badge&labelColor=020609&logo=googlechrome&logoColor=00ff88)](https://RudhraNarasimha.github.io/RudhraNarasimha.github.io/index.html)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GITHUB-020609?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=020609)](https://github.com/RudhraNarasimha)
 
 </div>
@@ -161,7 +161,7 @@ Regression-based predictive model for structured real estate price estimation. E
 
 <br/>
 
-[![→ ortfolio](https://img.shields.io/badge/%E2%86%92%20%20EXPERIENCE%20THE%20FULL%20ANIMATED%20PORTFOLIO-020609?style=for-the-badge&labelColor=020609&logo=googlechrome&logoColor=00ff88)](https://RudhraNarasimha.github.io)
+[![→ Portfolio](https://img.shields.io/badge/%E2%86%92%20%20PORTFOLIO-020609?style=for-the-badge&labelColor=020609&logo=googlechrome&logoColor=00ff88)](https://RudhraNarasimha.github.io/RudhraNarasimha.github.io/index.html)
 
 </div>
 
