@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=15&duration=2800&pause=600&color=00FF88&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Systems.+Designed+for+Scale.;Architecture-first+engineering.;Backend+%7C+ML+%7C+Clean+Design.;Engineered+capability+%E2%80%94+not+coursework.;Structure+dictates+outcome.)](https://rudhranarsimha.github.io)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=15&duration=2800&pause=600&color=00FF88&center=true&vCenter=true&repeat=true&width=620&lines=Systems.+Designed+for+Scale.;Architecture-first+engineering+principles.;Backend+%7C+ML+%7C+Clean+Layered+Design.;Engineered+capability+%E2%80%94+not+coursework.;Structure+dictates+outcome.+Precision+builds+trust.)](https://RudhraNarasimha.github.io)
 
 </div>
 
@@ -14,8 +14,8 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/%E2%96%B6%20LIVE%20PORTFOLIO-00ff88?style=for-the-badge&labelColor=020609&color=020609&logoColor=00ff88)](https://RudhraNarasimha.github.io)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GITHUB-ffffff?style=for-the-badge&logo=github&labelColor=020609&color=020609)](https://github.com/RudhraNarasimha)
+[![Live Portfolio](https://img.shields.io/badge/%E2%96%B6%20%20LIVE%20PORTFOLIO-020609?style=for-the-badge&labelColor=020609&color=020609&logo=googlechrome&logoColor=00ff88)](https://RudhraNarasimha.github.io)&nbsp;
+[![Source Code](https://img.shields.io/badge/SOURCE%20CODE-020609?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=020609&color=020609)](https://github.com/RudhraNarasimha/RudhraNarasimha.github.io)
 
 </div>
 
@@ -25,60 +25,70 @@
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  I build structured backend systems and intelligent ML pipelines            ║
 ║  using architecture-first engineering principles.                           ║
-║  This profile represents engineered capability — not coursework.            ║
+║  This portfolio represents engineered capability — not coursework.          ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
+<br/>
+
 ---
 
-## `// CORE SYSTEMS`
+## `// 01` &nbsp; CORE SYSTEMS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**`SYS-001` ✈ Airplane Reservation System**
+### `SYS-001` &nbsp;✈ Airplane Reservation System
 
-![](https://img.shields.io/badge/BACKEND-020609?style=flat-square&labelColor=020609&color=020609)&nbsp;![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)&nbsp;![](https://img.shields.io/badge/JDBC-007396?style=flat-square)&nbsp;![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/BACKEND-020609?style=flat-square&labelColor=020609)&nbsp;![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)&nbsp;![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square)&nbsp;![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-Structured backend infrastructure simulating real airline booking operations. Layered architecture with strict separation of concerns — Client → Controller → Service → DAO → MySQL.
+Structured backend infrastructure simulating real airline booking operations. Built with strict separation of concerns across a fully layered architecture.
 
-`Flight Inventory` · `Reservation Workflow` · `Cancellation Logic` · `JDBC Abstraction`
+**`Client → Controller → Service → DAO → MySQL`**
+
+`Flight Inventory` &nbsp;·&nbsp; `Reservation Workflow` &nbsp;·&nbsp; `Cancellation Logic` &nbsp;·&nbsp; `JDBC Abstraction` &nbsp;·&nbsp; `Exception Handling`
 
 </td>
 <td width="50%" valign="top">
 
-**`SYS-002` 🏦 Banking Management System**
+### `SYS-002` &nbsp;🏦 Banking Management System
 
-![](https://img.shields.io/badge/BACKEND-020609?style=flat-square&labelColor=020609&color=020609)&nbsp;![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)&nbsp;![](https://img.shields.io/badge/JDBC-007396?style=flat-square)&nbsp;![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/BACKEND-020609?style=flat-square&labelColor=020609)&nbsp;![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)&nbsp;![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square)&nbsp;![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-Financial system engineered around transaction integrity and secure state management. Auth → Account Controller → Transaction Engine → Persistent Storage.
+Financial system engineered around transaction integrity and secure state management. Reliability and business logic isolation are the core design goals.
 
-`Atomic Transactions` · `Secure Auth` · `Financial Rule Isolation` · `Audit Log`
+**`Auth → Account Controller → Transaction Engine → Storage`**
+
+`Atomic Transactions` &nbsp;·&nbsp; `Secure Login` &nbsp;·&nbsp; `Financial Rule Isolation` &nbsp;·&nbsp; `Audit Log` &nbsp;·&nbsp; `Integrity Validation`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**`SYS-003` 🌾 Crop Recommendation Engine**
+### `SYS-003` &nbsp;🌾 Crop Recommendation Engine
 
-![](https://img.shields.io/badge/ML%20PIPELINE-00eeff?style=flat-square&labelColor=020609&color=020609)&nbsp;![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;![](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/ML%20PIPELINE-020609?style=flat-square&labelColor=020609)&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)&nbsp;![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-Supervised classification model transforming environmental inputs into optimized crop predictions. Full ML pipeline from raw data to confusion matrix validation.
+Supervised classification model that transforms environmental inputs into optimized agricultural predictions. Designed for predictive intelligence, not just accuracy.
 
-`Feature Normalization` · `Classification` · `Accuracy Benchmarking` · `Confusion Matrix`
+**`Raw Data → Clean → Feature Eng → Train → Evaluate → Predict`**
+
+`Feature Normalization` &nbsp;·&nbsp; `Classification` &nbsp;·&nbsp; `Accuracy Benchmarking` &nbsp;·&nbsp; `Confusion Matrix`
 
 </td>
 <td width="50%" valign="top">
 
-**`SYS-004` 🏡 House Price Prediction Engine**
+### `SYS-004` &nbsp;🏡 House Price Prediction Engine
 
-![](https://img.shields.io/badge/ML%20PIPELINE-00eeff?style=flat-square&labelColor=020609&color=020609)&nbsp;![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;![](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/ML%20PIPELINE-020609?style=flat-square&labelColor=020609)&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)&nbsp;![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
-Regression-based predictive model for structured real estate price estimation. Engineered for interpretability — preprocessing through MAE/MSE benchmarked output.
+Regression-based predictive model for structured real estate price estimation. Engineered for interpretability and analytical clarity at every pipeline stage.
 
-`Feature Scaling` · `Regression Modeling` · `MAE / MSE Evaluation` · `Interpretability`
+**`Data → Preprocess → Scale → Regress → MAE/MSE → Price`**
+
+`Feature Scaling` &nbsp;·&nbsp; `Regression Modeling` &nbsp;·&nbsp; `MAE / MSE Evaluation` &nbsp;·&nbsp; `Interpretability`
 
 </td>
 </tr>
@@ -86,51 +96,36 @@ Regression-based predictive model for structured real estate price estimation. E
 
 ---
 
-## `// TECHNOLOGY STACK`
+## `// 02` &nbsp; TECHNOLOGY STACK
 
 <div align="center">
 
-**Backend**&nbsp;&nbsp;
+**Backend Engineering**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Machine Learning**&nbsp;&nbsp;
+**Machine Learning**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-**Foundations**&nbsp;&nbsp;
-![](https://img.shields.io/badge/Clean_Architecture-00ff88?style=for-the-badge&labelColor=020609&color=020609)
-![](https://img.shields.io/badge/Layered_Design-00ff88?style=for-the-badge&labelColor=020609&color=020609)
-![](https://img.shields.io/badge/OOP-00ff88?style=for-the-badge&labelColor=020609&color=020609)
-![](https://img.shields.io/badge/Data_Modeling-00ff88?style=for-the-badge&labelColor=020609&color=020609)
+**Engineering Foundations**
+
+![](https://img.shields.io/badge/Clean_Architecture-020609?style=for-the-badge&labelColor=020609&logoColor=00ff88)
+![](https://img.shields.io/badge/Layered_Design-020609?style=for-the-badge&labelColor=020609)
+![](https://img.shields.io/badge/OOP-020609?style=for-the-badge&labelColor=020609)
+![](https://img.shields.io/badge/Data_Modeling-020609?style=for-the-badge&labelColor=020609)
 
 </div>
 
 ---
 
-## `// GITHUB STATS`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=RudhraNarasimha&show_icons=true&theme=chartreuse-dark&bg_color=020609&border_color=00ff88&title_color=00ff88&icon_color=00eeff&text_color=c8d8d0&hide_border=false&count_private=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudhraNarasimha&layout=compact&theme=chartreuse-dark&bg_color=020609&border_color=00ff88&title_color=00ff88&text_color=c8d8d0&hide_border=false" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=RudhraNarasimha&bg_color=020609&color=00ff88&line=00ff88&point=00eeff&area=true&area_color=003322&hide_border=false&border_color=00ff88&radius=0"/>
-
-</div>
-
----
-
-## `// ENGINEERING DOCTRINE`
+## `// 03` &nbsp; ENGINEERING DOCTRINE
 
 <div align="center">
 
@@ -146,12 +141,11 @@ Regression-based predictive model for structured real estate price estimation. E
 ```
 
 *Every system above was designed from architecture first — not code first.*
-
 *Structure dictates outcome. Precision builds trust.*
 
 <br/>
 
-[![Visit Portfolio](https://img.shields.io/badge/%E2%86%92%20VIEW%20FULL%20ANIMATED%20PORTFOLIO-00ff88?style=for-the-badge&labelColor=020609&color=020609)](https://RudhraNarasimha.github.io)
+[![▶ Experience the Full Portfolio](https://img.shields.io/badge/%E2%86%92%20%20EXPERIENCE%20THE%20FULL%20ANIMATED%20PORTFOLIO-020609?style=for-the-badge&labelColor=020609&logo=googlechrome&logoColor=00ff88)](https://RudhraNarasimha.github.io)
 
 </div>
 
