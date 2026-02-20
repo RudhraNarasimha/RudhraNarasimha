@@ -1,185 +1,127 @@
-<!-- ===== ELITE ANIMATED HEADER ===== -->
+<!-- ===== FAANG ELITE HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=Rudhra%20Narasimha&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20Backend%20Architect%20|%20System%20Builder&descAlignY=60&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:000000&height=280&section=header&text=Rudhra%20Narasimha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Intelligent%20Systems%20at%20Scale&descAlignY=62&descAlign=50"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00F7FF&center=true&vCenter=true&width=800&lines=Designing+Scalable+Software+Systems;Engineering+Intelligent+ML+Solutions;Building+Clean+Production+Ready+Architecture;Transforming+Ideas+into+Engineered+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=850&lines=Backend+Architecture;Machine+Learning+Systems;Scalable+Software+Design;Performance+Driven+Engineering" />
 </p>
 
 ---
 
-# 👨‍💻 Rudhra Narasimha  
+# Building Systems. Not Just Projects.
 
-### AI Engineer • Java Backend Developer • Machine Learning Practitioner  
+I design structured, scalable software systems with strong architecture foundations and intelligent decision layers.
 
-📍 India  
-📧 bandikanirn@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/rudhranarasimha  
+This portfolio represents engineered solutions — not academic exercises.
 
 ---
 
-# 🧠 About Me
-
-I engineer structured, scalable, and performance-driven systems that solve real-world problems.
-
-My focus is not just writing code —  
-I design **architecture**, optimize **performance**, and build systems that are maintainable and production-ready.
-
-I work at the intersection of:
-
-- Backend System Design (Java)
-- Intelligent ML Modeling (Python)
-- Database Engineering
-- Clean Architecture & Layered Design
+# ⚙️ SYSTEM ARCHITECTURE SHOWCASE
 
 ---
 
-# 🚀 Featured Engineering Projects
+## ✈️ Airplane Reservation System
+
+**Domain:** Transportation Infrastructure  
+**Architecture Style:** Layered OOP Design  
+
+### Engineered Components
+- Flight inventory management engine  
+- Booking & cancellation workflow controller  
+- Passenger data abstraction layer  
+- JDBC database connectivity module  
+- Exception-safe transaction logic  
+
+### System Thinking Applied
+- Object modeling based on real airline workflows  
+- Separation of concerns (UI → Logic → Data)  
+- Optimized database interactions  
 
 ---
 
-## ✈️ Airplane Reservation System  
-**Java • OOP • JDBC • MySQL**
+## 🏦 Banking Management System
 
-### System Design Overview
-- Modular OOP-based structure  
-- Passenger booking workflow  
-- Flight management module  
-- Ticket reservation & cancellation logic  
-- Database integration using JDBC  
+**Domain:** Financial Systems Simulation  
+**Core Focus:** Transaction Integrity & Data Safety  
 
-### Engineering Strength
-✔ Structured layered approach  
-✔ Optimized query handling  
-✔ Clean object modeling  
-✔ Exception handling & validation  
+### Engineered Modules
+- Secure authentication mechanism  
+- Account lifecycle management  
+- Deposit / Withdraw atomic operations  
+- Transaction history persistence  
+- Balance validation engine  
 
-> Designed to simulate real-world airline booking workflows.
-
----
-
-## 🏦 Banking Management System  
-**Java • OOP • File Handling / Database Integration**
-
-### Core Modules
-- Account creation & management  
-- Secure login system  
-- Deposit & withdrawal operations  
-- Transaction history tracking  
-- Balance validation logic  
-
-### Architecture Focus
-✔ Encapsulation & abstraction  
-✔ Business logic separation  
-✔ Secure transaction flow  
-✔ Data persistence layer  
-
-> Demonstrates financial system logic & backend reliability principles.
+### Architectural Strength
+- Business logic isolation  
+- Encapsulation of financial rules  
+- Reliable state management  
 
 ---
 
-## 🌾 Crop Recommendation System  
-**Python • Scikit-learn • Pandas**
+## 🌾 Crop Recommendation Engine
 
-### ML Pipeline
-- Data preprocessing & cleaning  
-- Feature engineering  
-- Classification model training  
-- Accuracy & confusion matrix evaluation  
-- Model comparison  
+**Type:** Supervised Classification System  
 
-### Real-World Value
-Predicts optimal crops based on soil and environmental parameters.
+### ML Engineering Flow
+- Dataset preprocessing pipeline  
+- Feature normalization  
+- Model training & evaluation  
+- Confusion matrix & accuracy benchmarking  
 
-✔ Supervised Learning  
-✔ Model optimization  
-✔ Performance evaluation  
+### Intelligence Layer
+Transforms environmental parameters into optimized crop suggestions.
 
 ---
 
-## 🏠 House Price Prediction System  
-**Python • Regression Modeling • Data Visualization**
+## 🏠 House Price Prediction Engine
 
-### Engineering Flow
-- Dataset preprocessing  
+**Type:** Regression-Based Predictive Model  
+
+### Engineered Pipeline
+- Data cleaning & transformation  
 - Feature scaling  
-- Regression model training  
-- MAE, MSE validation  
-- Visualization using Matplotlib  
+- Regression training  
+- MAE / MSE evaluation  
+- Visual interpretability  
 
-### Impact
-Enables data-driven real estate price estimation.
-
-✔ Regression modeling  
-✔ Feature importance analysis  
-✔ Data interpretability  
+### Outcome
+Predictive pricing intelligence from structured data.
 
 ---
 
-# 🛠 Technical Stack
-
-### Programming
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql" />
-
-### Machine Learning
-<img src="https://skillicons.dev/icons?i=python" />
-
-- NumPy  
-- Pandas  
-- Scikit-learn  
-- Matplotlib  
-- Model Optimization  
-- Feature Engineering  
-
-### Backend Engineering
-- Java OOP  
-- JDBC  
-- REST Concepts  
-- MVC Pattern  
-- Database Design  
-
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
-
----
-
-# 📊 Engineering Activity
+# 🧠 Core Engineering Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,git,linux,docker" />
+</p>
+
+**Backend Engineering**  
+Java • OOP • JDBC • Database Design  
+
+**Machine Learning**  
+Scikit-learn • Pandas • NumPy • Matplotlib  
+
+**System Design Principles**  
+Layered Architecture • Clean Code • Modularity • Optimization  
+
+---
+
+# 📊 Engineering Signals
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
-# 🏗 Engineering Principles
+# Engineering Philosophy
 
-✔ Think in Systems  
-✔ Design Before Implementation  
-✔ Optimize for Performance  
-✔ Write Maintainable Code  
-✔ Build for Scale  
-
----
-
-# 🎯 Current Growth Direction
-
-- Advanced Machine Learning  
-- Scalable Backend Systems  
-- Cloud Deployment  
-- System Design & Architecture  
-
----
+Design for scale.  
+Optimize for performance.  
+Build for longevity.
 
 <p align="center">
-  <i>Code with logic. Design with structure. Engineer with vision.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,100:0F0C29&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:141E30&height=120&section=footer"/>
 </p>
