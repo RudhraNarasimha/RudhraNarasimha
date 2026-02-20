@@ -42,54 +42,6 @@ RudhraNarasimha/
 
 ---
 
-## `// 01` &nbsp; HOW TO RUN
-
-### ▶ Option 1 — View Live (Instant, No Setup)
-
-> The portfolio is already deployed. Just click below:
-
-[![Open Live Site](https://img.shields.io/badge/%E2%86%92%20%20OPEN%20LIVE%20SITE-020609?style=for-the-badge&labelColor=020609&logo=googlechrome&logoColor=00ff88)](https://RudhraNarasimha.github.io)
-
----
-
-### ▶ Option 2 — Run Locally
-
-**Step 1 — Clone the repository**
-```bash
-git clone https://github.com/RudhraNarasimha/RudhraNarasimha.git
-```
-
-**Step 2 — Navigate into the folder**
-```bash
-cd RudhraNarasimha
-```
-
-**Step 3 — Open the portfolio**
-```bash
-# Option A: Open directly in your browser
-open index.html
-
-# Option B: On Windows
-start index.html
-
-# Option C: On Linux
-xdg-open index.html
-```
-
-**Step 4 — Or serve it with Live Server (recommended)**
-```bash
-# Install Live Server via npm (one-time setup)
-npm install -g live-server
-
-# Run it
-live-server
-```
-> Then visit `http://127.0.0.1:8080` in your browser.
-
-**Step 5 — Or use VS Code**
-> Install the **Live Server** extension → Right-click `index.html` → **Open with Live Server**
-
----
 
 ## `// 02` &nbsp; CORE SYSTEMS
 
