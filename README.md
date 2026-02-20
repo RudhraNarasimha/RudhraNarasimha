@@ -31,7 +31,7 @@
 <!-- LIVE PORTFOLIO LINK -->
 <div align="center">
 
-### 🔗 [→ VIEW ANIMATED PORTFOLIO](https://RudhraNarasimha.github.io)
+### 🔗 [→ VIEW PORTFOLIO]([(https://github.com/RudhraNarasimha/RudhraNarasimha.github.io)])
 *Full cyberpunk experience with live animations, matrix rain & interactive effects*
 
 </div>
