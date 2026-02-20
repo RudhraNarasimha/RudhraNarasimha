@@ -31,18 +31,6 @@
 
 ---
 
-## `// 00` &nbsp; REPOSITORY STRUCTURE
-
-```
-RudhraNarasimha/
-│
-├── index.html        ← Cyberpunk animated portfolio (main entry point)
-└── README.md         ← You are here
-```
-
----
-
-
 ## `// 02` &nbsp; CORE SYSTEMS
 
 <table>
@@ -173,7 +161,7 @@ Regression-based predictive model for structured real estate price estimation. E
 
 <br/>
 
-[![→ Experience the Full Animated Portfolio](https://img.shields.io/badge/%E2%86%92%20%20EXPERIENCE%20THE%20FULL%20ANIMATED%20PORTFOLIO-020609?style=for-the-badge&labelColor=020609&logo=googlechrome&logoColor=00ff88)](https://RudhraNarasimha.github.io)
+[![→ ortfolio](https://img.shields.io/badge/%E2%86%92%20%20EXPERIENCE%20THE%20FULL%20ANIMATED%20PORTFOLIO-020609?style=for-the-badge&labelColor=020609&logo=googlechrome&logoColor=00ff88)](https://RudhraNarasimha.github.io)
 
 </div>
 
